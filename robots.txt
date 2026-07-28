@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-apbdub.koi888.sbs/sitemap.xml
